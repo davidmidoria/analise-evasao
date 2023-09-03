@@ -18,6 +18,7 @@ Após isso, tornou-se muito mais fácil compreender os nossos tipos de demissõe
 
 Esse trabalho me mostrou que muitas vezes a melhor maneira de apresentar algo é simplesmente explicando. A análise de dados envolve muito mais o entendimento dos dados e saber como comunicá-los ao público do que apenas criar gráficos.
 
+![link do dashboard com as princpais visualizações do trabalho](https://public.tableau.com/app/profile/david.lima5829/viz/analise_evaso/evaso_impacto?publish=yes)
 
 ### ferramentas
 * tableau
